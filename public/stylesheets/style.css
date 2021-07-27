@@ -1,0 +1,17 @@
+body {
+  background-color: slategray;
+  font: normal 18px Verdana, Arial, sans-serif;
+  color: white;
+}
+
+.navbar {
+  background-color: slategray;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.alex-paragraph {
+  padding-top: 20px;
+}
